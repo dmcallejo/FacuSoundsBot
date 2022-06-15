@@ -1,0 +1,95 @@
+{
+  "title": "La Vida Moderna",
+  "sounds": [
+    {
+      "filename": "audios/Abandonado.ogg",
+      "text": "Y nos han abandonado",
+      "tags": "abandonado"
+    },
+    {
+      "filename": "audios/Bieeeen.ogg",
+      "text": "Bieeeen",
+      "tags": "bieeeen bien felices veinte"
+    },
+    {
+      "filename": "audios/Educao.ogg",
+      "text": "Yo soy educao",
+      "tags": "bieeeen bien felices veinte"
+    },
+    {
+      "filename": "audios/Ehpropiese.ogg",
+      "text": "Expropiese",
+      "tags": "expropiese chavez venezuela ehpropiese"
+    },
+    {
+      "filename": "audios/PerroSanxe.ogg",
+      "text": "Perro Sanxe que eres el peor",
+      "tags": "perro sanxe que eres el peor telemadrid niño"
+    },
+    {
+      "filename": "audios/Porrista.ogg",
+      "text": "Porrista, tu eres un porrero",
+      "tags": "porrista tu eres un porrero"
+    },
+    {
+      "filename": "audios/PutaMierda.ogg",
+      "text": "Vaya puta mierda, querido",
+      "tags": "vaya puta mierda querido"
+    },
+    {
+      "filename": "audios/SoyFalangista.ogg",
+      "text": "Soy falangista...",
+      "tags": "soy falangista"
+    },
+    {
+      "filename": "audios/Televisiong.ogg",
+      "text": "Cállate la boca que está aquí la televisiong",
+      "tags": "callate la boca que esta aqui la televisiong cállate está aquí televisión television"
+    },
+    {
+      "filename": "musiquita/Fox.ogg",
+      "text": "Fox Morrow - Funk This Up",
+      "tags": "fox morrow funk this up musica ntmep"
+    },
+    {
+      "filename": "musiquita/Himno_PP_Merengue.ogg",
+      "text": "Himno del PP (merengue)",
+      "tags": "himno del pp merengue"
+    },
+    {
+      "filename": "musiquita/Himno_RDA.ogg",
+      "text": "Himno RDA",
+      "tags": "himno rda"
+    },
+    {
+      "filename": "musiquita/Himno_Riego.ogg",
+      "text": "Himno de Riego",
+      "tags": "himno de riego"
+    },
+    {
+      "filename": "musiquita/Himno_URSS.ogg",
+      "text": "Himno URSS",
+      "tags": "himno urss ussr"
+    },
+    {
+      "filename": "musiquita/Welcome_to_Hitsville.ogg",
+      "text": "Martin Landström - Welcome to Hitsville",
+      "tags": "musica bditm buenos dias in the morning marten martin landstrom landström welcome to hitsville"
+    },
+    {
+      "filename": "musiquita/White_Bones.ogg",
+      "text": "Martin Landström - Welcome to Hitsville",
+      "tags": "musica bditm buenos dias in the morning marten martin landstrom landström welcome to hitsville"
+    },
+    {
+      "filename": "musiquita/Yo_si_Quiero_a_Venezuela.ogg",
+      "text": "Yo sí quiero a Venezuela",
+      "tags": "musica yo si quiero a venezuela"
+    },
+    {
+      "filename": "musiquita/ZOO_Faena.ogg",
+      "text": "ZOO - Faena",
+      "tags": "musica zoo faena ntmep"
+    }
+  ]
+}
