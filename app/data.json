@@ -47,44 +47,39 @@
       "tags": "callate la boca que esta aqui la televisiong cállate está aquí televisión television"
     },
     {
-      "filename": "musiquita/Fox.ogg",
+      "filename": "musiquita/Fox_2.ogg",
       "text": "Fox Morrow - Funk This Up",
       "tags": "fox morrow funk this up musica ntmep"
     },
     {
-      "filename": "musiquita/Himno_PP_Merengue.ogg",
+      "filename": "musiquita/Himno_PP_Merengue_2.ogg",
       "text": "Himno del PP (merengue)",
       "tags": "himno del pp merengue"
     },
     {
-      "filename": "musiquita/Himno_RDA.ogg",
-      "text": "Himno RDA",
-      "tags": "himno rda"
-    },
-    {
-      "filename": "musiquita/Himno_Riego.ogg",
-      "text": "Himno de Riego",
-      "tags": "himno de riego"
-    },
-    {
-      "filename": "musiquita/Himno_URSS.ogg",
+      "filename": "musiquita/Himno_URSS_2.ogg",
       "text": "Himno URSS",
       "tags": "himno urss ussr"
     },
     {
-      "filename": "musiquita/Welcome_to_Hitsville.ogg",
+      "filename": "musiquita/Welcome_to_Hitsville_2.ogg",
       "text": "Martin Landström - Welcome to Hitsville",
       "tags": "musica bditm buenos dias in the morning marten martin landstrom landström welcome to hitsville"
     },
     {
-      "filename": "musiquita/Yo_si_Quiero_a_Venezuela.ogg",
+      "filename": "musiquita/Yo_si_Quiero_a_Venezuela_2.ogg",
       "text": "Yo sí quiero a Venezuela",
       "tags": "musica yo si quiero a venezuela"
     },
     {
-      "filename": "musiquita/ZOO_Faena.ogg",
+      "filename": "musiquita/ZOO_Faena_2.ogg",
       "text": "ZOO - Faena",
       "tags": "musica zoo faena ntmep"
+    },
+    {
+      "filename": "audios/yEntonces.ogg",
+      "text": "¿Y entonces?",
+      "tags": "y entonces broncano david bimbo anuncio inteligencia artificial"
     }
   ]
 }
