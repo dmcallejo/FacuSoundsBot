@@ -100,6 +100,16 @@
       "filename": "audios/perfectoElReyEsMiPadre.ogg",
       "text": "Perfecto, el Rey es mi padre",
       "tags": "perfecto el rey es mi padre ntmep bditm guardian de las estrellas"
+    },
+    {
+      "filename": "audios/malVerdaderaMalPorNoDecirBorchenoso.ogg",
+      "text": "Mal, mal mal. Verdadera mal, por no decir borchenoso.",
+      "tags": "mal verdadera por no decir borchenoso cañita canita brava"
+    },
+    {
+      "filename": "audios/Borchenoso.ogg",
+      "text": "BORCHENOSO",
+      "tags": "borchenoso cañita canita brava"
     }
   ]
 }
