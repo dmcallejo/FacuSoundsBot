@@ -255,6 +255,31 @@
       "filename": "audios/fachaloco-Te_mato_a_hostias.ogg",
       "text": "TE MATO A HOSTIAS",
       "tags": "fachaloco facha loco te mato hostias"
+    },
+    {
+      "filename": "audios/con_coca_con.ogg",
+      "text": "Con coca, con putas...",
+      "tags": "villarejo con coca putas"
+    },
+    {
+      "filename": "audios/maduro-360.ogg",
+      "text": "360",
+      "tags": "maduro 360 tres sesenta tressesenta"
+    },
+    {
+      "filename": "audios/maduro-bueno.ogg",
+      "text": "Bueno...",
+      "tags": "maduro bueno weno"
+    },
+    {
+      "filename": "audios/maduro-ta_transmitiendo.ogg",
+      "text": "Ah, ¿ta transmitiendo?",
+      "tags": "maduro ta esta transmitiendo"
+    },
+    {
+      "filename": "audios/who_let_the_dogs_out.ogg",
+      "text": "WHO LET THE DOGS OUT?",
+      "tags": "perro sanxe perrosanxe who let the dogs out pedro sanchez"
     }
   ]
 }
