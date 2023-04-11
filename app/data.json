@@ -280,6 +280,11 @@
       "filename": "audios/who_let_the_dogs_out.ogg",
       "text": "WHO LET THE DOGS OUT?",
       "tags": "perro sanxe perrosanxe who let the dogs out pedro sanchez"
+    },
+    {
+      "filename": "audios/seguimos.ogg",
+      "text": "Seguimos.",
+      "tags": "seguimos"
     }
   ]
 }
